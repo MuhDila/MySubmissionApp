@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MySubmissionApp" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/custom_white</item>
+        <!-- Set custom font family -->
+        <item name="android:fontFamily">@font/montserrat</item>
+        <!-- Customize ActionBar background color -->
+        <item name="android:actionMenuTextColor">@style/MyActionBar</item>
+    </style>
+
+    <style name="Theme.MySubmissionApp" parent="Base.Theme.MySubmissionApp" />
+
+    <style name="CustomDialogStyle" parent="Base.Theme.MySubmissionApp">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/design_default_color_error</item>
+    </style>
+</resources>

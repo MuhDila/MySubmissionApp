@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Sing-Er\'s</string>
+
+    <string name="singer_name">Nama Penyani</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+    <string name="dialog_photo">Dialog Photo</string>
+    <string name="close">Close</string>
+    <string name="full_image">Lihat Gambar</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="my_name">Muhammad Dila</string>
+    <string name="my_email">muhhdila21@gmail.com</string>
+    <string name="genre_music">Genre Music</string>
+    <string name="listen_on">Listen on</string>
+
+    <string-array name="data_name">
+        <item>Aimyon</item>
+        <item>Kenshi Yonezu</item>
+        <item>Aimer</item>
+        <item>Eve Harapeco</item>
+        <item>Yoasobi</item>
+        <item>RADWIMPS</item>
+        <item>LiSA</item>
+        <item>Vaundy</item>
+        <item>Kana-Boon</item>
+        <item>ASIAN KUNG-FU GENERATION</item>
+        <item>FLOW</item>
+        <item>HIGE DANDISM</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aimyon (あいみょん, born on March 6, 1995) is a Japanese singer and songwriter. She is from Nishinomiya, Hyōgo Prefecture. Her agency is ENS Entertainment, and her label is unBORDE under Warner Music Japan. Aimyon was influenced to become a singer-songwriter in part because of her grandmother, who herself aspired to be a singer or actress, and her father, who worked as an audio engineer; she grew up with music and started writing songs when she was in middle school.</item>
+        <item>Kenshi Yonezu (米津 玄師, Yonezu Kenshi) is a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi (ハチ) in 2009. In 2012, he debuted under his real name, releasing music with his own voice. He has sold at least 4.2 million physical copies and more than 7 million digital copies in Japan.</item>
+        <item>Aimer (エメ, Eme, [eme]) is a Japanese pop singer and lyricist signed to Sacra Music and managed by Agehasprings. Her stage name comes from the verb "Aimer" in French, which means "to love". Aimer uses the name aimerrhythm for lyrics credits. Debuting in 2011, she has released seven studio albums, all of which made it into the top 20 of the Oricon Albums Chart, with fourth album Daydream being certified Gold by the Recording Industry Association of Japan.</item>
+        <item>Eve Harapeco (Japanese: いぶ; also stylized as E ve, born 23 May 1995), formerly known as Keitora and Kurowa, is a Japanese singer-songwriter and Vocaloid producer. He entered the music industry by singing covers of popular music on Niconico. He signed to Toy\'s Factory in 2019, moving away from his Independently Owned Label, Harapeco Records, of whom Eve had produced under since the release of his debut album, Wonder Word. He was also a guest in "School of Lock!" by Tokyo FM.</item>
+        <item>Yoasobi is a Japanese music superduo formed in 2019 by Sony Music Entertainment Japan, composed of Vocaloid producer Ayase, and singer-songwriter Ikura. Represented by the slogan "novel into music", the duo originally released songs based on selected short stories posted on Monogatary.com, a social media website about creative writing and illustrations operated by their label. Each stories were later also sourced from various media like stories written by professional authors, books, letters, and plays.</item>
+        <item>Radwimps (Raddouinpusu, stylized as RADWIMPS, ラッドウインプス) is a Japanese rock band who debuted independently in 2003 and signed with Toshiba EMI in 2005. The band\'s name, Radwimps, was formed from two English slang terms, "rad" and "wimp". According to the band, the coined word had several meanings, including "excellent weakling" and "superlative coward".</item>
+        <item>Risa Oribe (織部 里沙, Oribe Risa, born June 24, 1987), better known by her stage name Lisa (stylized as LiSA), is a Japanese singer and songwriter from Seki, Gifu, signed to Sacra Music under Sony Music Artists. After aspiring to become a musician early in life, she started her musical career as the vocalist of the indie band Chucky. Following Chucky\'s disbandment in 2008, LiSA moved to Tokyo to pursue a solo career, making her major debut in 2010 singing songs for the anime television series Angel Beats!</item>
+        <item>Vaundy is a Japanese musician. He started his career in 2019 by independently uploading online, before breaking out late in the year with the song "Tokyo Flash". He has released songs for multiple TV shows, including "Chainsaw Blood" for Chainsaw Man and "Hadaka no Yuusha" for Ranking of Kings.</item>
+        <item>Kana-Boon (stylized in all caps) is a Japanese rock band formed in 2008. They made their major debut with Ki/oon Music in 2013. Ever since, they\'ve had four albums reach the top ten on the weekly Oricon Albums Chart, with Doppel being their best-charting album, reaching the third place on the chart. They have also had five singles reach the top ten on the weekly Oricon Singles Chart, with "Full Drive" (フルドライブ) being their best-charting single, reaching the sixth place on the chart.</item>
+        <item>Asian Kung-Fu Generation (stylized in all caps) is a Japanese alternative rock band formed in Yokohama in 1996. For its entire career, the band has consisted of vocalist Masafumi Gotoh, guitarist Kensuke Kita, bassist Takahiro Yamada, and drummer Kiyoshi Ijichi. Starting out as a college band, Asian Kung-Fu Generation released a series of independent EPs featuring lyrics mostly sung in English. In 2002, they released their major-label EP debut Hōkai Amplifier, from that point singing their lyrics in Japanese.</item>
+        <item>Flow (stylized in all caps) is a Japanese rock band formed in 1998 as a five-piece band made up of two vocalists, a guitarist, a bassist, and a drummer. They are signed to Sacra Music. As of February 2023, the band has released 39 singles and 12 studio albums. Their songs have been featured in the opening sequences of several anime and Japanese drama series. Flow successfully performed Flow Chokaigi 2020 "Anime Shibari Returns" at the Makuhari Messe Event Hall on February 24, 2020.</item>
+        <item>Official Hige Dandism (Official髭男dism, stylized as Official HIGE DANdism), commonly abbreviated Higedan (ヒゲダン), is a Japanese pop rock band formed in Shimane, Japan in 2012 by Satoshi Fujihara (lead vocals, piano), Daisuke Ozasa (lead guitar, backing vocals), Makoto Narazaki (bass, saxophone, backing vocals) and Masaki Matsuura (drums, percussion, backing vocals). The band announced on March 11, 2023 that it would be on temporary hiatus while Fujihara underwent medical treatment and recovery for a vocal cord polyp.</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>J-Pop, Rock, Folk</item>
+        <item>J-pop, Rock, Anison</item>
+        <item>J-Pop, Jazz, Pop Rock</item>
+        <item>J-Pop, Rock</item>
+        <item>J-Pop, Rock</item>
+        <item>J-Pop, Alternative Rock, Indie Rock</item>
+        <item>J-Pop, Rock, Pop Punk, Aniston</item>
+        <item>J-Pop, Indie</item>
+        <item>J-Pop, Rock</item>
+        <item>J-Pop, Alternative Rock, Indie</item>
+        <item>J-Pop, Indie Rock, Pop Punk</item>
+        <item>J-Pop, Pop Rock</item>
+    </string-array>
+
+    <string-array name="data_link_spotify">
+        <item>https://open.spotify.com/intl-id/artist/5kVZa4lFUmAQlBogl1fkd6?si=fm5-tlZKTZOCLwwn9pN4XQ</item>
+        <item>https://open.spotify.com/intl-id/artist/1snhtMLeb2DYoMOcVbb8iB?si=XCy8oCl4QUSY086GjBFIwQ</item>
+        <item>https://open.spotify.com/intl-id/artist/0bAsR2unSRpn6BQPEnNlZm?si=9WTEecyaTT-dOsQBg65uxA</item>
+        <item>https://open.spotify.com/intl-id/artist/58oPVy7oihAEXE0Ott6JOf?si=dCmd-bfaS_GPXKoy-U_1Cg</item>
+        <item>https://open.spotify.com/intl-id/artist/64tJ2EAv1R6UaZqc4iOCyj?si=lNrwMNwdTMuNsJEdkPhYgQ</item>
+        <item>https://open.spotify.com/intl-id/artist/1EowJ1WwkMzkCkRomFhui7?si=oTfXbGecSb6x0czkXsAeXA</item>
+        <item>https://open.spotify.com/intl-id/artist/0blbVefuxOGltDBa00dspv?si=iBxFXy6WQqC6wJ4GHuvobg</item>
+        <item>https://open.spotify.com/intl-id/artist/2IUl3m1H1EQ7QfNbNWvgru?si=sGlX7Cq1REKCjngGB76JQg</item>
+        <item>https://open.spotify.com/intl-id/artist/3PWp9R5HvbQgxI5KBx5kVd?si=6Rt1GBDbQGSxFuPj7tR52Q</item>
+        <item>https://open.spotify.com/intl-id/artist/0MK8l3nURwwQIjafvXoJJt?si=ayE96GmkQO2RZKapOJHPaw</item>
+        <item>https://open.spotify.com/intl-id/artist/3w2HqkKa6upwuXEULtGvnY?si=t92snDzJRIq3m4tTDzKHUA</item>
+        <item>https://open.spotify.com/intl-id/artist/5Vo1hnCRmCM6M4thZCInCj?si=JMOmL_kwQGq2OQdUh7ZJLw</item>
+    </string-array>
+
+    <string-array name="data_link_youtube">
+        <item>https://www.youtube.com/@aimyong</item>
+        <item>https://www.youtube.com/@KenshiYonezu</item>
+        <item>https://www.youtube.com/@aimerSMEJ</item>
+        <item>https://www.youtube.com/@ooo0eve0ooo</item>
+        <item>https://www.youtube.com/@Ayase_YOASOBI</item>
+        <item>https://www.youtube.com/@RADWIMPS_official</item>
+        <item>https://www.youtube.com/@lisaSMEJ</item>
+        <item>https://www.youtube.com/@Vaundy</item>
+        <item>https://www.youtube.com/@KANA-BOON_official</item>
+        <item>https://www.youtube.com/@flowSMEJ</item>
+        <item>https://www.youtube.com/@akgSMEJ</item>
+        <item>https://www.youtube.com/@officialhigedandism</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aimyon</item>
+        <item>@drawable/kenshi_yonezu</item>
+        <item>@drawable/aimer</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/yoasabi</item>
+        <item>@drawable/radwimps</item>
+        <item>@drawable/lisa</item>
+        <item>@drawable/vaundy</item>
+        <item>@drawable/kana_boon</item>
+        <item>@drawable/asian_kungfu</item>
+        <item>@drawable/flow</item>
+        <item>@drawable/dandism</item>
+    </integer-array>
+</resources>
